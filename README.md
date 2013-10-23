@@ -1,4 +1,4 @@
 buffalojavascript.org
 =====================
 
-BuffaloJS website.
+Built with the [Hexo](http://zespia.tw/hexo/) framework.
